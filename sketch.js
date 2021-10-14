@@ -18,7 +18,7 @@ var s1=0;
 var s2=0;
 
 function preload(){
-  back_img = loadImage("images\pexels-francesco-ungaro-1671325.jpg");
+  back_img = loadImage("images/pexels-francesco-ungaro-1671325.jpg");
   player_img = loadImage("images/basket2.png");
   fruit1_img = loadImage("images/apple2.png");
   fruit2_img = loadImage("images/banana2.png");
